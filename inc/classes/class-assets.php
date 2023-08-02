@@ -1,6 +1,6 @@
 <?php 
 
-namespace PRACTICE_THEME\Inc;
+namespace TEVENT_THEME\Inc;
 use PRACTICE_THEME\Inc\Traits\Singleton;
 
 class Assets {

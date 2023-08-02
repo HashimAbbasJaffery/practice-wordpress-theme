@@ -8,4 +8,7 @@
     <div id="post-details">
         <?php get_template_part("template-parts/components/entry-body"); ?>
     </div>
+    <div class="posted-on mb-3">
+        <?php get_template_part("template-parts/components/entry-meta"); ?>
+    </div>
 </article>

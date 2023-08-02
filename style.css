@@ -26,3 +26,7 @@ img {
     height: 400px;
     margin-bottom: 20px;
 }
+
+.updated:not(.published) {
+    display: none;
+}
